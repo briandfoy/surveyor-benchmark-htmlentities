@@ -1,4 +1,4 @@
-package [% module %];
+package Surveyor::Benchmark::HTMLEntities;
 use strict;
 
 use warnings;
@@ -9,19 +9,19 @@ use vars qw($VERSION);
 
 $VERSION = '0.10_01';
 
+=encoding utf8
+
 =head1 NAME
 
-[% module %] - This is the description
+Surveyor::Benchmark::HTMLEntities - 
 
 =head1 SYNOPSIS
 
-	use [% module %];
+	use Surveyor::Benchmark::HTMLEntities;
 
 =head1 DESCRIPTION
 
 =over 4
-
-=cut
 
 =item new
 
@@ -41,7 +41,6 @@ sub init
 	
 	}
 
-
 =back
 
 =head1 TO DO
@@ -52,15 +51,18 @@ sub init
 
 =head1 SOURCE AVAILABILITY
 
-This source is in Github
+This source is in Github:
+
+	http://github.com/briandfoy/surveyor-benchmark-htmlentities/
 
 =head1 AUTHOR
 
-brian d foy, C<< <bdfoy@cpan.org> >>
+, C<< <> >>
 
 =head1 COPYRIGHT AND LICENSE
 
-Copyright (c) 2008, brian d foy, All Rights Reserved.
+
+Copyright (c) 2013, brian d foy, All Rights Reserved.
 
 You may redistribute this under the same terms as Perl itself.
 
