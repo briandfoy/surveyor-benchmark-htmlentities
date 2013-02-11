@@ -14,9 +14,11 @@ use HTML::Escape;
 
 =head1 NAME
 
-Surveyor::Benchmark::HTMLEntities - 
+Surveyor::Benchmark::HTMLEntities - Benchmark HTML entity escaping
 
 =head1 SYNOPSIS
+
+Install L<Surveyor::App> to get the C<survey> program.
 
 To test the defaults:
 
