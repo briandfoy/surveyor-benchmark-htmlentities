@@ -1,0 +1,4 @@
+1.01 - Mon Feb 11 13:40:29 2013
+	* First upload of a module to compare HTML entity encoding
+	speeds. It compares HTML::Escape and HTML::Entities.
+
