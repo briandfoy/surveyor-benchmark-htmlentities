@@ -75,9 +75,10 @@ sub set_up {
 	$counts{'<'} = $HTML =~ tr/<//;
 	$counts{'&'} = $HTML =~ tr/&//;
 	$counts{"'"} = $HTML =~ tr/'//;
+	$counts{'"'} = $HTML =~ tr/"//;
 
-	printf "> (%d)\n< (%d)\n& (%d)\n' (%d)\n",
-		@counts{ qw(> < & ') };
+	printf qq(> (%d)\n< (%d)\n& (%d)\n' (%d)\n" (%d)\n),
+		@counts{ qw(> < & ' ") };
 	}
 	
 =item tear_down
