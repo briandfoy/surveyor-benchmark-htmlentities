@@ -5,7 +5,7 @@ use warnings;
 use subs qw();
 use vars qw($VERSION $HTML);
 
-$VERSION = '0.10_01';
+$VERSION = '1.01';
 
 use HTML::Entities;
 use HTML::Escape;
