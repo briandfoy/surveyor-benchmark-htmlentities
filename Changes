@@ -1,4 +1,4 @@
-# Changes for Surveyor::Benchmark-HTMLEntities
+Revision history for Perl module Surveyor::Benchmark::HTMLEntities
 
 1.01 - Mon Feb 11 13:40:29 2013
 	* First upload of a module to compare HTML entity encoding
