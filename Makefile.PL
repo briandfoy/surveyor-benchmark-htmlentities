@@ -51,7 +51,7 @@ my %WriteMakefile = (
 			},
 		},
 	
-	clean  => { FILES    => q|Surveyor-Benchmark-HTMLEntities-*| },
+	clean => { FILES => "$dist-*" },
 	);
 
 sub arguments { \%WriteMakefile }
