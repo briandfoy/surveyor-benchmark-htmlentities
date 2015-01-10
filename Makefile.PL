@@ -5,6 +5,8 @@ use warnings;
 use File::Spec::Functions qw(catfile);
 
 my $module    = 'Surveyor::Benchmark::HTMLEntities';
+( my $dist = $module ) =~ s/::/-/g;
+
 my $github    = 'https://github.com/briandfoy/Surveyor-Benchmark-HTMLEntities';
 my $main_file = catfile( 'lib', split /::/, "$module.pm" );
 
