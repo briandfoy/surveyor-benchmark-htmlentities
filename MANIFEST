@@ -1,5 +1,6 @@
 Changes
 examples/placeholder.pl
+INSTALL.SKIP
 lib/Surveyor/Benchmark/HTMLEntities.pm
 LICENSE
 Makefile.PL
