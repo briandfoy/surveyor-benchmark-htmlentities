@@ -127,7 +127,7 @@ sub bench_html_entities {
 
 This source is in Github:
 
-	http://github.com/briandfoy/surveyor-benchmark-htmlentities
+	https://github.com/briandfoy/surveyor-benchmark-htmlentities
 
 =head1 AUTHOR
 
