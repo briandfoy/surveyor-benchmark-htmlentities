@@ -133,9 +133,9 @@ brian d foy, C<< <bdfoy@gmail.com> >>
 
 =head1 COPYRIGHT AND LICENSE
 
-Copyright © 2013-2015, brian d foy <bdfoy@cpan.org>. All rights reserved.
+Copyright © 2013-2018, brian d foy <bdfoy@cpan.org>. All rights reserved.
 
-You may redistribute this under the same terms as Perl itself.
+You may redistribute this under the terms of Artistic License 2.0.
 
 =cut
 
