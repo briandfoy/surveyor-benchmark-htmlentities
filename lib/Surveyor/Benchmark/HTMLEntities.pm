@@ -78,7 +78,7 @@ sub set_up {
 	printf qq(> (%d)\n< (%d)\n& (%d)\n' (%d)\n" (%d)\n),
 		@counts{ qw(> < & ' ") };
 	}
-	
+
 =item tear_down
 
 =cut
