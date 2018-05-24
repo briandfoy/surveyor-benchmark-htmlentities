@@ -2,10 +2,8 @@ package Surveyor::Benchmark::HTMLEntities;
 use strict;
 use warnings;
 
-use subs qw();
-use vars qw($VERSION $HTML);
-
-$VERSION = '1.02';
+our $VERSION = '1.021';
+our $HTML;
 
 use HTML::Entities;
 use HTML::Escape;
