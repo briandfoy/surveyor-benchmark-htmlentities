@@ -1,5 +1,8 @@
 Revision history for Perl module Surveyor::Benchmark::HTMLEntities
 
+1.021 2018-05-24T14:46:30Z
+	* Change to the Artistic License 2.0
+
 1.01 - 2013-02-11
 	* First upload of a module to compare HTML entity encoding
 	speeds. It compares HTML::Escape and HTML::Entities.
