@@ -63,3 +63,6 @@
 \.releaserc
 \.lwpcookies
 Surveryor-.*
+\bMANIFEST\s\d
+\bChanges\s\d
+
