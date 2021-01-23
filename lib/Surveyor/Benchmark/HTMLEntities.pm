@@ -4,7 +4,7 @@ package Surveyor::Benchmark::HTMLEntities;
 use strict;
 use warnings;
 
-our $VERSION = '1.021';
+our $VERSION = '1.022';
 our $HTML;
 
 use HTML::Entities;
