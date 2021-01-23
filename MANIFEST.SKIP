@@ -67,3 +67,4 @@ Surveryor-.*
 \.icloud$
 \A\.github\b
 
+.gitignore
