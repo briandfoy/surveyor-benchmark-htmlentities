@@ -68,3 +68,4 @@ Surveryor-.*
 \A\.github\b
 
 .gitignore
+.github_token
