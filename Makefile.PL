@@ -67,7 +67,7 @@ my %WriteMakefile = (
 	'PREREQ_PM'     => {
 		'HTML::Escape'    => '0',
 		'HTML::Entities'  => '0',
-		'Mojo::UserAgent' => '0',
+		'Mojolicious'     => '9',
 		'Surveyor::App'   => '0',
 		},
 
