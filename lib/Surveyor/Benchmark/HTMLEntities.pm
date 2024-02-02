@@ -131,11 +131,11 @@ This source is in Github:
 
 =head1 AUTHOR
 
-brian d foy, C<< <bdfoy@gmail.com> >>
+brian d foy, C<< <briandfoy@pobox.com> >>
 
 =head1 COPYRIGHT AND LICENSE
 
-Copyright © 2013-2023, brian d foy <bdfoy@cpan.org>. All rights reserved.
+Copyright © 2013-2023, brian d foy <briandfoy@pobox.com>. All rights reserved.
 
 You may redistribute this under the terms of Artistic License 2.0.
 
